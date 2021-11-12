@@ -1,7 +1,9 @@
 # Algotithms-DS
+
 Algorithms &amp; data structures in different programming laguages - for training
 
-#### Basic structure:
+## Basic structure
+
 * Array
 * Linked list
 * Stack
