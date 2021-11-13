@@ -4,7 +4,9 @@ Algorithms &amp; data structures in different programming laguages - for trainin
 
 ## Basic structure
 
-* Array
-* Linked list
-* Stack
-* Queue
+- [x] Array(static)
+- [x] Linked list
+- [ ] Stack
+- [ ] Queue
+- [ ] Tree
+- [ ] Array(dynamic)
