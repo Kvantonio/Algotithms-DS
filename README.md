@@ -1,6 +1,6 @@
-# Algotithms-DS
+# Algorithms-DS
 
-Algorithms &amp; data structures in different programming laguages - for training
+Algorithms &amp; data structures in different programming languages - for training
 
 ## Basic structure
 
