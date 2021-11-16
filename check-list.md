@@ -13,6 +13,59 @@ Checklist of skills and knowledge. I will leave links to other sections of this 
 - [ ] Tree
 - [ ] Array(dynamic)
 
+### Advanced structures
+
+- [ ] Hash table
+- [ ] Circular Queue
+- [ ] Priority Queue
+- [ ] Deque
+- [ ] Heap Data Structure
+- [ ] Fibonacci Heap
+
+### Tree based structures
+
+- [ ] Binary Tree
+- [ ] Balanced Binary Tree
+- [ ] AVL Tree
+- [ ] B Tree
+- [ ] B+ Tree
+- [ ] Red Black Tree
+
+### Graph based structures
+
+- [ ] Graph Data Structure
+- [ ] Spanning Tree
+
+## Algorithms
+
+### Sorting algorithms
+
+- [ ] Bubble Sort
+- [ ] Selection Sort
+- [ ] Insertion Sort
+- [ ] Merge Sort
+- [ ] Quick Sort
+- [ ] Counting Sort
+- [ ] Radix Sort
+- [ ] Bucket Sort
+- [ ] Heap Sort
+- [ ] Shell Sort
+
+### Searching Algorithms
+
+- [ ] Linear Search
+- [ ] Binary Search
+
+### Greedy Algorithms
+
+- [ ] Dijkstra's Algorithm
+- [ ] Ford-Fulkerson Algorithm
+- [ ] Kruskal's Algorithm
+- [ ] Prim's Algorithm
+- [ ] Huffman Code
+
+---
+
 ## Testing
 
 - [ ] Unit testing
