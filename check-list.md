@@ -36,6 +36,8 @@ Checklist of skills and knowledge. I will leave links to other sections of this 
 - [ ] Graph Data Structure
 - [ ] Spanning Tree
 
+---
+
 ## Algorithms
 
 ### Sorting algorithms
@@ -63,6 +65,28 @@ Checklist of skills and knowledge. I will leave links to other sections of this 
 - [ ] Kruskal's Algorithm
 - [ ] Prim's Algorithm
 - [ ] Huffman Code
+
+---
+
+## Coding principles
+
+- [ ] KISS
+- [ ] DRY
+- [ ] YAGNI
+- [ ] SLAP
+- [ ] SRP
+- [ ] OCP
+- [ ] LSP
+- [ ] ISP
+- [ ] DIP
+- [ ] SOLID
+- [ ] WET
+
+<!-- - [ ] FOOBAR
+- [ ] SNAFU
+- [ ] ASAP
+- [ ] FYI
+- [ ] RTFM -->
 
 ---
 
