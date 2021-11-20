@@ -88,6 +88,39 @@ Checklist of skills and knowledge. I will leave links to other sections of this 
 - [ ] FYI
 - [ ] RTFM -->
 
+## Patterns
+
+### Creational
+
+- [ ] Factory Method
+- [ ] Abstract Factory
+- [ ] Builder
+- [ ] Prototype
+- [ ] Singleton
+
+### Structural
+
+- [ ] Decorator
+- [ ] Composite
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Proxy
+
+### Behavioral
+
+- [ ] Observer
+- [ ] Strategy
+- [ ] Chain of Responsibility
+- [ ] Template Method
+- [ ] Memento
+- [ ] Mediator
+- [ ] Iterator
+- [ ] Command
+- [ ] State
+- [ ] Visitor
+
 ---
 
 ## Testing
