@@ -9,7 +9,7 @@ Checklist of skills and knowledge. I will leave links to other sections of this 
 - [x] Array(static)
 - [x] Linked list
 - [x] Stack
-- [ ] Queue
+- [x] Queue
 - [ ] Tree
 - [ ] Array(dynamic)
 
