@@ -71,7 +71,7 @@ Checklist of skills and knowledge. I will leave links to other sections of this 
 ## Coding principles
 
 - [ ] KISS
-- [ ] DRY
+- [x] DRY
 - [ ] YAGNI
 - [ ] SLAP
 - [ ] SRP
