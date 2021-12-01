@@ -121,6 +121,22 @@ Checklist of skills and knowledge. I will leave links to other sections of this 
 - [ ] State
 - [ ] Visitor
 
+
+---
+
+## Database
+
+### Database normalization
+
+- [ ] Unnormalized form
+- [ ] First normal form
+- [ ] Second normal form
+- [ ] Third normal form
+- [ ] Elementary key normal form
+- [ ] Boyce–Codd normal form
+- [ ] Fourth normal form
+- [ ] Fifth normal form
+
 ---
 
 ## Testing
